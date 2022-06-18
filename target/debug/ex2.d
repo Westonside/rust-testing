@@ -1,0 +1,1 @@
+/home/weston/Documents/Rust/udemy/ex2/ex2/target/debug/ex2: /home/weston/Documents/Rust/udemy/ex2/ex2/src/http/method.rs /home/weston/Documents/Rust/udemy/ex2/ex2/src/http/mod.rs /home/weston/Documents/Rust/udemy/ex2/ex2/src/http/request.rs /home/weston/Documents/Rust/udemy/ex2/ex2/src/main.rs /home/weston/Documents/Rust/udemy/ex2/ex2/src/server.rs
